@@ -1,0 +1,15 @@
+bin
+lib
+pyvenv.cfg
+.idea
+db.sqlite3
+__pycache__
+jobs
+media/*
+media/*
+venv
+.venv
+dump.rdb
+**/migrations/**
+!**/migrations
+!**/migrations/__init__.py
